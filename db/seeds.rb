@@ -45,6 +45,7 @@ Spice.create!([
     rating: "3"
   },
   {
+    
     title: "Mustard Powder",
     image: "https://www.publicdomainpictures.net/pictures/150000/nahled/mustard-powder-in-glass-bowl.jpg",
     description: "Someone once must have looked out over a golden field of mustard flowers and said, “I’m gonna eat those somehow.” Thank heaven they did or this fierce, dry mustard powder wouldn’t be with us today.",
